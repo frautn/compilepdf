@@ -30,7 +30,7 @@ affiliations:
    index: 5
  
 date: 02 June 2024
-bibliography: bettachini.bib
+bibliography: paper.bib
 
 lang: "en-GB"
 
